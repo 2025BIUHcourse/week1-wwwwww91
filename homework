@@ -1,0 +1,9 @@
+git init
+git config --global user.name "wwwwww91"
+git config --global user.email"wxh1394860@163.com"
+
+git add .
+git commit -m"week1 submit"
+git branch -M main
+git remote add origin 
+git push -u origin main
